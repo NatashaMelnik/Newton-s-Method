@@ -1,0 +1,11 @@
+D:\un\Чисельні методи\lr1_Newton'sMethod\bin\Debug\netcoreapp2.1\lr1_Newton'sMethod.deps.json
+D:\un\Чисельні методи\lr1_Newton'sMethod\bin\Debug\netcoreapp2.1\lr1_Newton'sMethod.runtimeconfig.json
+D:\un\Чисельні методи\lr1_Newton'sMethod\bin\Debug\netcoreapp2.1\lr1_Newton'sMethod.runtimeconfig.dev.json
+D:\un\Чисельні методи\lr1_Newton'sMethod\bin\Debug\netcoreapp2.1\lr1_Newton'sMethod.dll
+D:\un\Чисельні методи\lr1_Newton'sMethod\bin\Debug\netcoreapp2.1\lr1_Newton'sMethod.pdb
+D:\un\Чисельні методи\lr1_Newton'sMethod\obj\Debug\netcoreapp2.1\lr1_Newton'sMethod.csprojAssemblyReference.cache
+D:\un\Чисельні методи\lr1_Newton'sMethod\obj\Debug\netcoreapp2.1\lr1_Newton'sMethod.csproj.CoreCompileInputs.cache
+D:\un\Чисельні методи\lr1_Newton'sMethod\obj\Debug\netcoreapp2.1\lr1_Newton'sMethod.AssemblyInfoInputs.cache
+D:\un\Чисельні методи\lr1_Newton'sMethod\obj\Debug\netcoreapp2.1\lr1_Newton'sMethod.AssemblyInfo.cs
+D:\un\Чисельні методи\lr1_Newton'sMethod\obj\Debug\netcoreapp2.1\lr1_Newton'sMethod.dll
+D:\un\Чисельні методи\lr1_Newton'sMethod\obj\Debug\netcoreapp2.1\lr1_Newton'sMethod.pdb
